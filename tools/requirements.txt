@@ -1,0 +1,12 @@
+GitPython==2.1.11
+PyGithub==1.39
+Send2Trash==1.5.0
+absl-py==0.1.10
+grpcio==1.18.0
+humanize==0.5.1
+jwt==0.6.1  # Dependency PyGithub.
+protobuf==3.6.1
+py==1.5.2
+six==1.11.0  # Needed by absl.
+smmap2==2.0.3
+
